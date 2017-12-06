@@ -1,4 +1,4 @@
-package com.pinger.sample.model;
+package com.pinger.splitshow.model;
 
 /**
  * Created by Administrator on 2017/12/6.

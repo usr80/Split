@@ -1,4 +1,4 @@
-package com.pinger.sample;
+package com.pinger.splitshow;
 
 import org.junit.Test;
 

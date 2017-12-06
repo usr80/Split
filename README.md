@@ -255,7 +255,7 @@
 		    android:layout_height="match_parent"
 		    xmlns:app="http://schemas.android.com/apk/res-auto"
 		    android:fillViewport="true"
-		    tools:context="com.pinger.sample.MainActivity">
+		    tools:context="splitshow.MainActivity">
 		
 		    <com.pinger.library.FlowLayout
 		        app:width_space="10dp"

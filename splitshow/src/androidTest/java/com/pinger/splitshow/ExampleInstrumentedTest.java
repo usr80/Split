@@ -1,4 +1,4 @@
-package com.pinger.sample;
+package com.pinger.splitshow;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.pinger.sample", appContext.getPackageName());
+        assertEquals("com.pinger.splitshow", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.pinger.sample.model;
+package com.pinger.splitshow.model;
 
 import java.util.List;
 

@@ -1,6 +1,5 @@
-package com.pinger.sample;
+package com.pinger.splitshow;
 
-import android.app.Dialog;
 import android.app.ProgressDialog;
 import android.graphics.Color;
 import android.graphics.drawable.GradientDrawable;
@@ -10,13 +9,11 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.Gravity;
 import android.view.View;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.itheima.retrofitutils.ItheimaHttp;
-import com.itheima.retrofitutils.Request;
 import com.itheima.retrofitutils.listener.HttpResponseListener;
 import com.pinger.library.FlowLayout;
-import com.pinger.sample.model.Tip;
+import com.pinger.splitshow.model.Tip;
 
 import java.lang.reflect.Type;
 import java.util.HashSet;
